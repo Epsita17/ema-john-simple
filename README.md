@@ -1,7 +1,7 @@
 ## Assignment : Project Name : ema -john-simple
 # Due Security and upload problem unable to deploy in netlify 
 # project sybmitted public github repo and please asses accordingly 
-[live link](https://epsita17.github.io/ema-john-simple/.)
+[live link]:https://epsita17.github.io/ema-john-simple/.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
